@@ -1,0 +1,30 @@
+<style>
+      h1{
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      p{
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      body{
+        background-color: rgb(155, 196, 203)
+      }
+      .cidadeestado{
+        font-style: italic;
+      }
+      .capanalitica{
+        font-size: x-large;
+      }
+      .unix{
+        font-size: small;
+      }
+      .plan{
+        font-size: medium;
+      }
+      .comunic{
+        font-size: large;
+      }
+      .proat{
+        font-size: larger;
+      }
+      
+    </style>
