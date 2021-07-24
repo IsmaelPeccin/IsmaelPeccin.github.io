@@ -1,12 +1,7 @@
-<style>
-      h1{
-        font-family: Verdana, Tahoma, sans-serif;
-      }
-      p{
-        font-family: Arial, Helvetica, sans-serif;
-      }
+    
+      
       body{
-        background-color: rgb(155, 196, 203)
+        background-color: rgb(180, 241, 175)
       }
       .cidadeestado{
         font-style: italic;
@@ -26,5 +21,29 @@
       .proat{
         font-size: larger;
       }
+      .foto-2{
+        float: left;
+        height: 130px;
+        padding: 10px;
+        background-color: rgb(147, 235, 147) ;
+      }
+.image-container{
+  height: 150px; 
+  
+    
+      }
+.name-container{
+   text-align: center;
+   font-family: Verdana, Tahoma, sans-serif;
+   }
+   .description{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+   ul li:nth-child(odd){
+     background-color: greenyellow;
+   }
+
+
       
-    </style>
+      
